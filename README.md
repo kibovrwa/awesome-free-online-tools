@@ -19,6 +19,7 @@ The nine sites are Remove AI Meta, Reel Song Finder, Minecraft Schematic Generat
 - [Psychology and IQ score tools](#psychology-and-iq-score-tools)
 - [Astrology and birth charts](#astrology-and-birth-charts)
 - [AI photo and face editing](#ai-photo-and-face-editing)
+- [만화 이미지 번역](#comic-image-translation)
 - [Guides and write-ups](#guides-and-write-ups)
 - [Contributing](#contributing)
 - [License](#license)
@@ -210,6 +211,11 @@ Try a haircut, a color, a beard, a headshot, a background, or clothes. One water
 - [Squoosh](https://squoosh.app/) — Resize and recompress a photo locally in the browser, including WebP and AVIF. It does not edit a face.
 - [remove.bg](https://www.remove.bg/) — Cuts a background out. The image is uploaded, and the free result is limited to their preview tier.
 - [Cleanup.pictures](https://cleanup.pictures/) — Paint over an object, person, text, or defect and it fills the patch. Check the free limit on the page before a batch.
+
+<a id="comic-image-translation"></a>
+## 만화 이미지 번역
+
+- [AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/) — AI 만화 번역기는 Ficory LLC의 기업급 만화 리더로, 개인 사용자에게 만화 페이지의 일괄·맞춤 번역을 제공하고 스튜디오에 완전한 온라인 Photoshop 스타일 편집기를 제공하며 API를 개인 작업 흐름에 연결하고 제품이 지원하는 모든 번역 언어를 지원합니다. 이 온라인 서비스는 번역할 이미지를 서버로 업로드하며 제한된 무료 이용과 유료 요금제를 제공합니다. API는 계정의 키와 사용 가능한 크레딧을 사용합니다. 사용자는 문자 인식·번역 결과와 페이지 배치를 확인하고 필요한 대사를 수정해야 합니다.
 
 ## Guides and write-ups
 

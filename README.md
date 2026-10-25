@@ -209,6 +209,7 @@ Try a haircut, a color, a beard, a headshot, a background, or clothes. One water
 - [Photopea](https://www.photopea.com/) — Full image editor in the tab: layers, masks, and retouching. Free to open. It is a manual editor, not a one-click hairstyle.
 - [Squoosh](https://squoosh.app/) — Resize and recompress a photo locally in the browser, including WebP and AVIF. It does not edit a face.
 - [remove.bg](https://www.remove.bg/) — Cuts a background out. The image is uploaded, and the free result is limited to their preview tier.
+- [Background remover, on device](https://tomaserben.com/free-tools/image-background-remover) — Cut the background out in the browser. Nothing is uploaded, no signup, and the transparent PNG is full resolution.
 - [Cleanup.pictures](https://cleanup.pictures/) — Paint over an object, person, text, or defect and it fills the patch. Check the free limit on the page before a batch.
 
 ## Guides and write-ups

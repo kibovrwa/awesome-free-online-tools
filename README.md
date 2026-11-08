@@ -107,6 +107,7 @@ Snapchat's My Data ZIP is the source. These pages write capture dates, GPS, and 
 - [Snapchat Download My Data](https://accounts.snapchat.com/v2/download-my-data) — Snapchat's signed-in export. This is the ZIP the repair tool expects. The files in it still carry the export day until something rewrites them.
 - [How Snapchat says to download your data](https://help.snapchat.com/hc/en-us/articles/7012305371156-How-do-I-download-my-data-from-Snapchat) — Snapchat's own steps. Use this before you give a password to any third-party downloader.
 - [ExifTool](https://exiftool.org/) — Writes DateTimeOriginal, QuickTime dates, and GPS once you already know the values. It does not parse memories_history.json for you.
+- [BestJSON JSON Viewer](https://bestjson.com/json-viewer) — Inspect an extracted `memories_history.json` as a searchable tree and copy paths locally without uploading it. Free without an account, up to 20 MB; rejects duplicate keys and unsafe numbers. It does not open the ZIP, download media, or restore dates/GPS.
 
 ## Subtitles and transcripts
 
